@@ -29,7 +29,7 @@
     <dependency>
 	  <groupId>com.github.yamunasoftware18</groupId>
 	  <artifactId>UILA_API</artifactId>
-	  <version>1.2.5</version>
+	  <version>1.2.6</version>
 	</dependency>
   </dependencies>
 </project>
